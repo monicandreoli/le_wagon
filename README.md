@@ -1,3 +1,3 @@
 Le wagon material
 ----------------------------
-lessons & livecodes
+Bootcamp lessons & livecodes
